@@ -1,1 +1,1 @@
-# prep_byte_competetive_coding
+Competetive codings from fundamentals.
